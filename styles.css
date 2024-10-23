@@ -103,5 +103,13 @@ header .logo h1 {
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
+.about-section {
+    text-align: center;
+}
+
+.about-section img {
+    margin: 0 auto;
+}
+
 
 }
